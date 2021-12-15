@@ -7,7 +7,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=filebrowser
-PKG_VERSION:=2.15.0
+PKG_VERSION:=2.19.0
 PKG_RELEASE:=
 
 PKG_SOURCE_PROTO:=git
