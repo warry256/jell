@@ -11,9 +11,9 @@ include $(INCLUDE_DIR)/kernel.mk
 PKG_NAME:=fullconenat
 PKG_RELEASE:=
 
-PKG_SOURCE_DATE:=2019-10-21
+PKG_SOURCE_DATE:=2021-12-04
 PKG_SOURCE_PROTO:=git
-PKG_SOURCE_URL:=https://github.com/Chion82/netfilter-full-cone-nat.git
+PKG_SOURCE_URL:=https://github.com/llccd/netfilter-full-cone-nat.git
 PKG_SOURCE_VERSION:=null
 PKG_MIRROR_HASH:=skip
 
