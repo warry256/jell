@@ -6,7 +6,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=adguardhome
-PKG_VERSION:=0.107.0
+PKG_VERSION:=0.107.2
 PKG_RELEASE:=
 
 PKG_SOURCE_PROTO:=git
