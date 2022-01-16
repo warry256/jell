@@ -7,7 +7,7 @@
 include $(TOPDIR)/rules.mk
 
 PKG_NAME:=qbittorrent
-PKG_VERSION:=4.3.9
+PKG_VERSION:=4.4.0
 PKG_RELEASE=1
 
 PKG_SOURCE:=qBittorrent-release-$(PKG_VERSION).tar.gz
@@ -37,6 +37,7 @@ define Package/qbittorrent
 		+libopenssl \
 		+qt5-core \
 		+qt5-network \
+		+qt5-sql \
 		+qt5-xml \
 		+zlib
 	TITLE:=bittorrent client programmed in C++ / Qt
